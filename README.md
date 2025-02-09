@@ -1,6 +1,5 @@
 space rocks
 ===========
-> Made using the book [Godot 4 Game Projects](https://www.packtpub.com/en-us/product/godot-4-game-development-projects-9781804610404?srsltid=AfmBOorYLKi1u2suNZnnvHmIgqjWj2lENyfsNxAmP7X6HaDl4H2IjfXi), and customized a lot by me after.
 
 I used all the assets from the book, but some audio I created myself using [sfxr](https://sfxr.me/).
 
