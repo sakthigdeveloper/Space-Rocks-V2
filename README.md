@@ -1,7 +1,10 @@
-space rocks
+#space rocks
 ===========
+An exciting space adventure where you shoot rocks and conquer challenges. Get ready for hours of fun! 
 
-I used all the assets from the book, but some audio I created myself using [sfxr](https://sfxr.me/).
+Audio credits
+===========
+Audio from I created myself using [sfxr](https://sfxr.me/).
 
 How to Play
 ===========
