@@ -51,7 +51,7 @@ Hold Fire: `Charge laser`
 #### Shields
 Automatically replenish over time. Shooting costs shield energy. Charged shots cost more shield energy, with each level more expensive than the previous one.  
 
-I've hosted this on my site here: https://beta.grymmjack.com/godot-spacerocks/ so you can try it without downloading it, or building it in Godot.  
+I've hosted this on my site here: https://sakthiexe.itch.io/spacerocks so you can try it without downloading it, or building it in Godot.  
 
 Intro Screen:
 ![intro](screenshot-intro.png)
@@ -59,4 +59,4 @@ Intro Screen:
 Game Screen:
 ![game](screenshot-game.png)
 
-Built with Godot v4.3 on 9/11/2024
+Built with Godot v4.3 on 9/2/2025
