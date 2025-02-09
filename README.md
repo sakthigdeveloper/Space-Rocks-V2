@@ -4,7 +4,7 @@ An exciting space adventure where you shoot rocks and conquer challenges. Get re
 
 Audio credits
 ===========
-Audio from I created myself using [sfxr](https://sfxr.me/).
+Audio from [sfxr](https://sfxr.me/).
 
 How to Play
 ===========
